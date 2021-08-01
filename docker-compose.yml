@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  facebookpage:
+    image: facebookpage
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 453:453
