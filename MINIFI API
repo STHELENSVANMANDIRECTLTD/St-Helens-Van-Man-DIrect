@@ -1,0 +1,1 @@
+GET https://api.cloudflare.com/client/v4/zones/a40b855a130bc1e79b877a79b5eb940c/settings/minify
