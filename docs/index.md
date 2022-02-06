@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to St Helens Van Man Direct (R)
 
 You can use the [editor on GitHub](https://github.com/vanmans/FACEBOOK1/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
