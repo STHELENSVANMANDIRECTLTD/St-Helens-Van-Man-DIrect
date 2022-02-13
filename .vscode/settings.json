@@ -1,3 +1,30 @@
 {
-    "python.pythonPath": "C:\\Users\\Paul\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+    "python.pythonPath": "C:\\Users\\Paul\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "window.autoDetectColorScheme": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modificationsIfAvailable",
+    "editor.suggest.preview": true,
+    "editor.suggest.localityBonus": true,
+    "editor.suggest.shareSuggestSelections": true,
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "debug.confirmOnExit": "always",
+    "debug.console.acceptSuggestionOnEnter": "on",
+    "debug.showBreakpointsInOverviewRuler": true,
+    "debug.openExplorerOnEnd": true,
+    "terminal.integrated.enableShellIntegration": true,
+    "terminal.integrated.ignoreProcessNames": [
+        "starship",
+        "oh-my-posh"
+    ],
+    "terminal.integrated.localEchoExcludePrograms": [],
+    "anycode.language.features": {
+        "diagnostics": true
+    },
+    "hediet.vscode-drawio.codeLinkActivated": true,
+    "githubPullRequests.terminalLinksHandler": "github",
+    "remoteHub.richNavigation.enabled": true,
+    "npm.enableRunFromFolder": true,
+    "javascript.inlayHints.enumMemberValues.enabled": true
 }
